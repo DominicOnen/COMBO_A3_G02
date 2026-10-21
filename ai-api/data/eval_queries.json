@@ -1,0 +1,23 @@
+{
+  "_note": "Sample queries for the PLACEHOLDER dataset. Rewrite 3+ per member (name/alias, role/skill, contribution/feature) after members.json is finalized, and keep 5+ no-match queries.",
+  "queries": [
+    {"q": "Tell me about Member One", "expected": "m1"},
+    {"q": "Who is the product and GitHub lead?", "expected": "m1"},
+    {"q": "Who handled release packaging and the v1.0.0 tag?", "expected": "m1"},
+    {"q": "Tell me about Member Two", "expected": "m2"},
+    {"q": "Who knows TF-IDF and cosine similarity?", "expected": "m2"},
+    {"q": "Who built the matching engine and no-match logic?", "expected": "m2"},
+    {"q": "Tell me about Member Three", "expected": "m3"},
+    {"q": "Who is the API and integration engineer?", "expected": "m3"},
+    {"q": "Who built the FastAPI service and deployment?", "expected": "m3"},
+    {"q": "Tell me about Member Four", "expected": "m4"},
+    {"q": "Who knows React Native and Expo?", "expected": "m4"},
+    {"q": "Who built offline mode?", "expected": "m4"},
+    {"q": "What is the weather in Kigali today?", "expected": null},
+    {"q": "Recipe for cooking potatoes", "expected": null},
+    {"q": "who won the football match", "expected": null},
+    {"q": "tell me something", "expected": null},
+    {"q": "Explain quantum physics", "expected": null},
+    {"q": "bitcoin price forecast", "expected": null}
+  ]
+}
