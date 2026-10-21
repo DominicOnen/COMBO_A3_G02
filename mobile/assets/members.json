@@ -1,0 +1,90 @@
+[
+  {
+    "id": "m1",
+    "fullName": "Arop",
+    "registrationNumber": "REPLACE-REG-1",
+    "aliases": ["One", "Product Lead"],
+    "githubUsername": "replace-github-1",
+    "role": "Product and GitHub lead",
+    "skills": ["GitHub issues", "pull requests", "release management", "backlog planning"],
+    "targetUser": "Potato cooperative members and innovation partners in Musanze",
+    "problem": "Visitors need to quickly see who built each part of AgriSoko Pocket and what evidence supports it.",
+    "contribution": "Managed the backlog, repository access, milestones, the v1.0.0 tag and the GitHub Release.",
+    "feature": "release packaging and repository traceability",
+    "outcomeMetric": null,
+    "evidenceLinks": {
+      "issue": "https://github.com/REPLACE/agrisoko-pocket-gxx/issues/1",
+      "pullRequest": "https://github.com/REPLACE/agrisoko-pocket-gxx/pull/1",
+      "commit": "https://github.com/REPLACE/agrisoko-pocket-gxx/commit/REPLACE",
+      "demo": "evidence/COMBO_A3_GXX_DEMO.mp4 (timestamp to be added)"
+    },
+    "testerFeedback": null,
+    "introductionDraft": "My name is Arop Malual. I lead the product and repository work for AgriSoko Pocket so that partners can verify who built what."
+  },
+  {
+    "id": "m2",
+    "fullName": "Onen",
+    "registrationNumber": "REPLACE-REG-2",
+    "aliases": ["Two", "AI Engineer"],
+    "githubUsername": "replace-github-2",
+    "role": "AI and data engineer",
+    "skills": ["TF-IDF", "scikit-learn", "cosine similarity", "pandas", "model evaluation"],
+    "targetUser": "Visitors who ask natural questions about team members",
+    "problem": "Natural-language questions must be matched to the right approved member profile, and vague questions must be rejected.",
+    "contribution": "Built the members.json schema, text normalization, the TF-IDF index, confidence threshold and the evaluation script.",
+    "feature": "TF-IDF matching engine and no-match logic",
+    "outcomeMetric": null,
+    "evidenceLinks": {
+      "issue": "https://github.com/REPLACE/agrisoko-pocket-gxx/issues/2",
+      "pullRequest": "https://github.com/REPLACE/agrisoko-pocket-gxx/pull/2",
+      "commit": "https://github.com/REPLACE/agrisoko-pocket-gxx/commit/REPLACE",
+      "demo": "evidence/COMBO_A3_GXX_DEMO.mp4 (timestamp to be added)"
+    },
+    "testerFeedback": null,
+    "introductionDraft": "My name is Dominic Onen. I built the matching engine that finds the right team member for a question in AgriSoko Pocket."
+  },
+  {
+    "id": "m3",
+    "fullName": "Fabio",
+    "registrationNumber": "REPLACE-REG-3",
+    "aliases": ["Three", "API Engineer"],
+    "githubUsername": "replace-github-3",
+    "role": "API and integration engineer",
+    "skills": ["FastAPI", "Pydantic", "deployment", "logging", "API contract"],
+    "targetUser": "The mobile app and its users who need a reliable service",
+    "problem": "The mobile app needs a validated, safe API that never returns invented fields.",
+    "contribution": "Implemented the FastAPI endpoints, Pydantic validation, error handling and deployment of the service.",
+    "feature": "FastAPI service and deployment",
+    "outcomeMetric": null,
+    "evidenceLinks": {
+      "issue": "https://github.com/REPLACE/agrisoko-pocket-gxx/issues/3",
+      "pullRequest": "https://github.com/REPLACE/agrisoko-pocket-gxx/pull/3",
+      "commit": "https://github.com/REPLACE/agrisoko-pocket-gxx/commit/REPLACE",
+      "demo": "evidence/COMBO_A3_GXX_DEMO.mp4 (timestamp to be added)"
+    },
+    "testerFeedback": null,
+    "introductionDraft": "My name is Fajwan Chanjwok. I built the FastAPI service that connects the AgriSoko Pocket app to the matching engine."
+  },
+  {
+    "id": "m4",
+    "fullName": "Ali",
+    "registrationNumber": "REPLACE-REG-4",
+    "aliases": ["Four", "Mobile Engineer"],
+    "githubUsername": "replace-github-4",
+    "role": "Mobile UI, offline and release engineer",
+    "skills": ["React Native", "Expo", "TypeScript", "AsyncStorage", "NetInfo", "EAS build"],
+    "targetUser": "Cooperative members using Android phones, sometimes without network",
+    "problem": "Users need to ask about team members from a phone, even when there is no network.",
+    "contribution": "Built the screens, navigation, offline lookup, cache source labels and the Android APK build.",
+    "feature": "offline mode and mobile screens",
+    "outcomeMetric": null,
+    "evidenceLinks": {
+      "issue": "https://github.com/REPLACE/agrisoko-pocket-gxx/issues/4",
+      "pullRequest": "https://github.com/REPLACE/agrisoko-pocket-gxx/pull/4",
+      "commit": "https://github.com/REPLACE/agrisoko-pocket-gxx/commit/REPLACE",
+      "demo": "evidence/COMBO_A3_GXX_DEMO.mp4 (timestamp to be added)"
+    },
+    "testerFeedback": null,
+    "introductionDraft": "My name is ali Salahadin. I built the Android screens and the offline mode of AgriSoko Pocket."
+  }
+]
