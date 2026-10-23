@@ -2,7 +2,7 @@
   {
     "id": "m1",
     "fullName": "Arop",
-    "registrationNumber": "REPLACE-REG-1",
+    "registrationNumber": "25/27389",
     "aliases": ["One", "Product Lead"],
     "githubUsername": "replace-github-1",
     "role": "Product and GitHub lead",
@@ -43,10 +43,11 @@
     "testerFeedback": null,
     "introductionDraft": "My name is Dominic Onen. I built the matching engine that finds the right team member for a question in AgriSoko Pocket."
   },
+
   {
     "id": "m3",
     "fullName": "Fabio",
-    "registrationNumber": "REPLACE-REG-3",
+    "registrationNumber": "25/28110",
     "aliases": ["Three", "API Engineer"],
     "githubUsername": "replace-github-3",
     "role": "API and integration engineer",
@@ -68,7 +69,7 @@
   {
     "id": "m4",
     "fullName": "Ali",
-    "registrationNumber": "REPLACE-REG-4",
+    "registrationNumber": "25/26883",
     "aliases": ["Four", "Mobile Engineer"],
     "githubUsername": "replace-github-4",
     "role": "Mobile UI and navigation engineer",
@@ -90,7 +91,7 @@
   {
     "id": "m5",
     "fullName": "Cynthia",
-    "registrationNumber": "REPLACE-REG-5",
+    "registrationNumber": "25/27096",
     "aliases": ["Five", "Offline Engineer"],
     "githubUsername": "replace-github-5",
     "role": "Offline and quality engineer",
