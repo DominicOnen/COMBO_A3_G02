@@ -1,4 +1,4 @@
-# COMBO_A3_GXX_REPORT.pdf: outline (max 10 pages, must match final APK and repo)
+# COMBO_A3_G02_REPORT.pdf: outline (max 10 pages, must match final APK and repo)
 
 1. **Problem and users:** scenario, target users, product promise, members and roles.
 2. **Information architecture:** screens Home → Ask → Result → Profile; Directory → Profile; About. Online/offline flow: validate → NetInfo → POST /ask; on failure → bundled exact name/alias/role lookup → else no-match + directory.

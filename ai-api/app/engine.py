@@ -28,7 +28,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 MODEL_VERSION = "agrisoko-tfidf-1.0.0"
-GROUP_CODE = "GXX"
+GROUP_CODE = "G02"
 CONFIDENCE_THRESHOLD = 0.20  # started at 0.45; lowered after recorded-query sweep (see docs/AI_EVAL.md)
 EXACT_BOOST = 0.95
 

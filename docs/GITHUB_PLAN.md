@@ -1,6 +1,6 @@
 # GitHub plan (one issue per assessed feature)
 
-Create repo `agrisoko-pocket-gxx`, invite all members, then:
+Create repo `agrisoko-pocket-G02`, invite all members, then:
 
 | Issue | Owner role | Branch | Module label |
 |---|---|---|---|

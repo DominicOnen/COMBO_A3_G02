@@ -1,4 +1,4 @@
-"""FastAPI service for AgriSoko Pocket GXX."""
+"""FastAPI service for AgriSoko Pocket G02."""
 from __future__ import annotations
 
 import logging

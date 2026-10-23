@@ -1,8 +1,8 @@
-# AgriSoko Pocket GXX
+# AgriSoko Pocket G02
 
-> Replace every `GXX`, `REPLACE` and placeholder with your real group code, names and links before submission.
+> Replace every `G02`, `REPLACE` and placeholder with your real group code, names and links before submission.
 
-**Group code:** GXX · **App:** AgriSoko Pocket GXX · **Repository:** agrisoko-pocket-gxx · **APK:** AgriSokoPocket_GXX.apk
+**Group code:** G02 · **App:** AgriSoko Pocket G02 · **Repository:** agrisoko-pocket-G02 · **APK:** AgriSokoPocket_G02.apk
 
 ## Purpose
 A visitor asks a natural question ("Who built offline mode?", "Tell me about Aline") and gets the best-matching team member with a confidence score, the reason for the match and an evidence-based introduction built only from approved facts in `ai-api/data/members.json`.
@@ -53,9 +53,9 @@ npx expo start
 **EAS build command (installable APK, no Expo Go):**
 ```bash
 npm i -g eas-cli && eas login
-eas build -p android --profile preview      # produces .apk; download and rename to AgriSokoPocket_GXX.apk
+eas build -p android --profile preview      # produces .apk; download and rename to AgriSokoPocket_G02.apk
 ```
-Place the APK in `build/AgriSokoPocket_GXX.apk` and attach it to the GitHub Release `v1.0.0`.
+Place the APK in `build/AgriSokoPocket_G02.apk` and attach it to the GitHub Release `v1.0.0`.
 
 ## Tested devices
 REPLACE (device, Android version) · REPLACE (second device/configuration)
@@ -64,7 +64,7 @@ REPLACE (device, Android version) · REPLACE (second device/configuration)
 - Repository URL: REPLACE
 - v1.0.0 release URL: REPLACE
 - Final commit hash: REPLACE
-- APK path: `build/AgriSokoPocket_GXX.apk`
+- APK path: `build/AgriSokoPocket_G02.apk`
 
 ## Known limitations
 - Lexical matching: paraphrases without shared words can fail.
@@ -75,9 +75,9 @@ REPLACE (device, Android version) · REPLACE (second device/configuration)
 ## Where the evidence is
 | Evidence | Location |
 |---|---|
-| Report | `docs/COMBO_A3_GXX_REPORT.pdf` (outline in `docs/REPORT_OUTLINE.md`) |
+| Report | `docs/COMBO_A3_G02_REPORT.pdf` (outline in `docs/REPORT_OUTLINE.md`) |
 | AI evaluation | `docs/AI_EVAL.md` |
-| Demo video | `evidence/COMBO_A3_GXX_DEMO.mp4` |
+| Demo video | `evidence/COMBO_A3_G02_DEMO.mp4` |
 | Contributions (signed) | `evidence/CONTRIBUTIONS.pdf` |
 | Test log | `evidence/TEST_LOG.pdf` |
 | Tester feedback | `evidence/FEEDBACK.pdf` |

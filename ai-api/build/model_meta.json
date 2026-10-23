@@ -1,6 +1,6 @@
 {
   "model_version": "agrisoko-tfidf-1.0.0",
-  "group_code": "GXX",
+  "group_code": "G02",
   "vectorizer": "word(1-2) + char_wb(3-5) TF-IDF, cosine",
   "threshold": 0.2,
   "members": 4,

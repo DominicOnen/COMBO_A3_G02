@@ -78,7 +78,7 @@ def test_missing_optional_field_keeps_member(tmp_path):
 
 def test_health(client):
     j = client.get("/health").json()
-    assert j["status"] == "ok" and j["group_code"] == "GXX" and "version" in j
+    assert j["status"] == "ok" and j["group_code"] == "G02" and "version" in j
 
 
 def test_members_directory_safe(client):

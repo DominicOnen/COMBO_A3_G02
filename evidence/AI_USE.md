@@ -1,4 +1,4 @@
-# AI use declaration: Group GXX
+# AI use declaration: Group G02
 
 > Each member must check this file for accuracy and edit it. Be honest and specific.
 
